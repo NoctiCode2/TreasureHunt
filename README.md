@@ -43,7 +43,7 @@ Ce projet est sous licence **MIT**. Vous pouvez l’utiliser, le modifier et le 
 - 🌎 Mode multijoueur avec agents contrôlés par des joueurs humains.
 
 ## ✨ Contributeurs
-👤 **Votre Nom** - [Votre GitHub](https://github.com/votre-utilisateur)
+👤 **Nina** - [MyGit]([https://github.com/votre-utilisateur](https://github.com/NoctiCode2))
 
 Les contributions sont les bienvenues ! Créez une **issue** ou soumettez une **pull request**. 🚀
 
