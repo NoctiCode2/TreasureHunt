@@ -1,4 +1,4 @@
-# Gestion-des-Tr-sors-avec-Pygame
+# TreasureHunt
 
 Un projet de simulation d'agents collectant des trésors dans un environnement en grille, avec une gestion intelligente des tâches.
 
