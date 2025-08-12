@@ -37,10 +37,6 @@ Ce projet est une simulation en **Python** utilisant **Pygame** pour l'affichage
 ## 📜 Licence
 Ce projet est sous licence **MIT**. Vous pouvez l’utiliser, le modifier et le partager librement.
 
-## 🎯 Améliorations Futures
-- 🔄 Amélioration de l’IA des agents pour une meilleure optimisation des déplacements.
-- 📊 Ajout de statistiques détaillées sur les performances des agents.
-- 🌎 Mode multijoueur avec agents contrôlés par des joueurs humains.
 
 ## ✨ Contributeurs
 👤 **Nina** - [MyGit]([https://github.com/votre-utilisateur](https://github.com/NoctiCode2))
